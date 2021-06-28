@@ -17,7 +17,6 @@ export default {
 };
 </script>
 
-
 <style scoped lang="scss">
 .example {
   color: $my-color;
@@ -28,5 +27,4 @@ export default {
     color: $my-color2;
   }
 }
-
 </style>

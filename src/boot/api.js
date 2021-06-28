@@ -9,8 +9,8 @@ export const BASE_URL = "*/";
 export const API_URL = BASE_URL + "api/";
 
 const API = axios.create({
-    withCredentials: false,
-    baseURL: API_URL
+  withCredentials: false,
+  baseURL: API_URL,
 });
 
 // if troubles with headers
@@ -54,6 +54,5 @@ API.interceptors.response.use(
     }
 );
  */
-
 
 export default API;

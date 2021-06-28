@@ -1,4 +1,4 @@
-# mytest
+# Vue clean project
 
 ## Project setup
 ```
